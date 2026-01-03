@@ -3,14 +3,18 @@
 - Learning Data Structure & Algorithms 
 - Solving problems on LeetCode  
 - Interested in Backend Development
- Skills
-- Languages: C, Python
+- Working on small projects
+  
+ ## Skills
+
+- Languages: C, Python, C++
 - Concepts: DSA, OOP
 - Tools: Git, VS Code
 - I’m looking forward to collaborate on projects
 - How to reach me: aizah.waseem2025@vitstudent.ac.in
 - Pronouns: she/her
-  Tech Stack
+  
+## Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
@@ -18,7 +22,7 @@
 ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=C)
 ![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=C++)
 
-Socials
+## Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/aizah-waseem-80a97535a/)
 
