@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Aizah Waseemw
+## Hi there 👋, I'm Aizah Waseem
 - Currently CS student at Vellore Institute Of Technology in Chennai
 - Learning Data Structure & Algorithms 
 - Solving problems on LeetCode  
@@ -13,11 +13,10 @@
   Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-![Vue](https://img.shields.io/badge/Vue-000?style=for-the-badge&logo=vue.js)
+![PYTHON](https://img.shields.io/badge/PYTHON-000?style=for-the-badge&logo=python)
+![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=c++)
 
 Socials
 
