@@ -8,7 +8,7 @@
  ## Skills
 
 - Languages: C, Python, C++
-- Concepts: DSA, OOP
+- Concepts: DSA, OOPS
 - Tools: Git, VS Code
 - I’m looking forward to collaborate on projects
 - How to reach me: aizah.waseem2025@vitstudent.ac.in
